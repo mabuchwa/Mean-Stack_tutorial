@@ -1,1 +1,1 @@
-# Mean-Stack_tutorial
+# Mean Stack tutorial with Angular 2
